@@ -21,7 +21,6 @@ class LoginScreen extends StatelessWidget {
                     Image.asset("assets/images/icons/icons8-buy-100.png"),
                     Positioned(
                       bottom: 0,
-
                         child: Text("Buy It",style: TextStyle(fontSize: 25),))
                   ],
                 ),
